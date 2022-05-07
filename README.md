@@ -17,7 +17,7 @@
 
 ### :man_technologist:  About me: 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portland, Oregon.
-- :telescope: I’m and contributing to frontend and backend for building web applications.
+- :telescope: I’m experimenting with screen-readers and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I break code and modify my vim config and mod Minecraft for my son.
 
