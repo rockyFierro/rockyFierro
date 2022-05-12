@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rocky!</h1>
 <h3 align="center">I am a Full Stack Developer from Portland, Oregon.</h3>
-</div>
+<div align="center">
    <img src ="https://i.imgur.com/Ha9VwH2.gif" style="width: 100px"/>
 </div>
 
