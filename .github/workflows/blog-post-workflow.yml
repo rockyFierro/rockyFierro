@@ -1,4 +1,4 @@
-name: Latest blog post workflow every hour
+name: Latest blog post workflow on push 
 on: [push]
 jobs: 
     update-readme-with-blog: 
