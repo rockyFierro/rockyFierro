@@ -45,4 +45,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockyfierro&show_icons=true&locale=en&layout=compact" alt="rockyfierro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockyfierro&show_icons=true&locale=en" alt="rockyfierro" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockyfierro&show_icons=true&locale=en" alt="rockyfierro" /></span>
