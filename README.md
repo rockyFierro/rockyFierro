@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🌱 I’m currently learning Rust, AWS
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rocky-codes/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sstyle=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rocky-codes/)
 
 <!--
 **rockyFierro/rockyfierro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
