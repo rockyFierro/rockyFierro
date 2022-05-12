@@ -24,8 +24,11 @@
 
 - ⚡ Fun fact **The first program I ever wrote was a drawing of a spaceship on the Commadore 64**
 
-Dev Blog:
-[Python - Anaconda set up for future use with Tensorflow](https://dev.to/rockyfierro/real-time-detection-4g2e)
+<p>Dev Blog:</p>
+<ul>
+   <li>[Python - Anaconda set up for future use with Tensorflow](https://dev.to/rockyfierro/real-time-detection-4g2e)
+</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
