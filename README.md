@@ -10,11 +10,7 @@
 
 - 🌱 I’m currently learning **Java, AWS**
 
-- 👯 I’m looking to collaborate on [ASL Input Controller](https://github.com/rockyFierro/ASL-Input-Controls-ASL_to_English-)
-
 - 👨‍💻 All of my projects are available at [rocky-fierro-roost.vercel.app](rocky-fierro-roost.vercel.app)
-
-- 📝 I regularly write articles on [https://dev.to/rockyfierro](https://dev.to/rockyfierro)
 
 - 💬 Ask me about **React, Express, Redux**
 
@@ -23,12 +19,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Jgi85xzoyc9nr2sCV-TKuHtl6-BNp4MpGtjtVJ5yoy0/edit?usp=sharing](https://docs.google.com/document/d/1Jgi85xzoyc9nr2sCV-TKuHtl6-BNp4MpGtjtVJ5yoy0/edit?usp=sharing)
 
 - ⚡ Fun fact **The first program I ever wrote was a drawing of a spaceship on the Commadore 64**
-
-<p>Dev Blog:</p>
-<ul>
-   <li>[Python - Anaconda set up for future use with Tensorflow](https://dev.to/rockyfierro/real-time-detection-4g2e)
-</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
