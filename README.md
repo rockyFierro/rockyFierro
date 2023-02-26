@@ -6,11 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockyfierro" alt="rockyfierro" /></a> </p>
 
-- 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-fe)
 
-- 🌱 I’m currently learning **Java, AWS**
-
-- 👨‍💻 All of my projects are available at [rocky-fierro-roost.vercel.app](rocky-fierro-roost.vercel.app)
+- 👨‍💻 All of my projects are available at _________________
 
 - 💬 Ask me about **React, Express, Redux**
 
